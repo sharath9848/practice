@@ -1,5 +1,3 @@
 this is txt
 
 did again
-
-this is a bad code
